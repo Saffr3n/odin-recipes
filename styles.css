@@ -1,0 +1,18 @@
+* {
+  font-family: "Times New Roman", serif;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+a {
+  background-color: lightgray;
+  color: red;
+}
+
+img {
+  width: auto;
+  height: 512px;
+}
